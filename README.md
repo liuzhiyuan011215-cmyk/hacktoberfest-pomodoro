@@ -28,3 +28,5 @@ python3 -m http.server 8000
 
 ---
 Built with Grok Build during MLH Global Hack Week: Hacktoberfest 2026
+
+**본인 역할 (한국어)**: MLH Global Hack Week 개인 참가작 — 기능 구성과 브라우저 동작 확인을 직접 했고, 코드는 AI 코딩 도구(Grok Build)로 작성했습니다.
